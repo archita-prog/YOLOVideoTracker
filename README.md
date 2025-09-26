@@ -39,5 +39,5 @@ Future Improvements
 
 ---
 
-Do you want me to also **make a short README template** for your *Smart Vision Analytics project* separately, so the two repos don’t overlap?
+
 
