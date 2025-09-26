@@ -28,7 +28,6 @@ Example Output
 * Unique IDs per vehicle
 * Vehicle counts in detection zone
 
-*(Add a GIF/screenshot here for recruiters to see results easily)*
 
 ---
 
