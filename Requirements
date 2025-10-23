@@ -1,4 +1,4 @@
 Python 3.7 or higher
 Ultralytics YOLOv8 (pip install ultralytics)
 OpenCV (pip install opencv-python)
-Other dependencies: numpy, pandas
+Other dependencies: numpy, pandas, matplotlib
